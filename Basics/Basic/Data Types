@@ -1,0 +1,19 @@
+"""
+hey is a multiline string      can also be used as a multline comment
+
+Everything in python is an object           ; objects have methods that act on the data they contain
+and every object has a type
+
+
+Python's Primitive Data types
+ 1. Strings
+ 2. Integers
+ 3. floats
+ 4. Booleans
+
+   Compound data types - are crafted from the primitive data types
+ 4. Lists
+ 5. Tuples
+ 6. Dictionary
+ 7. Sets
+"""
